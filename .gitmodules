@@ -1,0 +1,21 @@
+[submodule "infra/builders/packer/bsd"]
+	path = infra/builders/packer/bsd
+	url = git@github.com:chrismulderza/boxcutter-bsd
+[submodule "infra/builders/packer/windows"]
+	path = infra/builders/packer/windows
+	url = git@github.com:chrismulderza/boxcutter-windows
+[submodule "infra/builders/packer/centos"]
+	path = infra/builders/packer/centos
+	url = git@github.com:chrismulderza/boxcutter-centos
+[submodule "infra/builders/packer/fedora"]
+	path = infra/builders/packer/fedora
+	url = git@github.com:chrismulderza/boxcutter-fedora
+[submodule "infra/builders/packer/macos"]
+	path = infra/builders/packer/macos
+	url = git@github.com:chrismulderza/boxcutter-macos
+[submodule "infra/builders/packer/ubuntu"]
+	path = infra/builders/packer/ubuntu
+	url = git@github.com:chrismulderza/boxcutter-ubuntu
+[submodule "infra/builders/packer/oraclelinux"]
+	path = infra/builders/packer/oraclelinux
+	url = git@github.com:chrismulderza/boxcutter-oraclelinux
