@@ -19,3 +19,9 @@
 [submodule "infra/builders/packer/oraclelinux"]
 	path = infra/builders/packer/oraclelinux
 	url = git@github.com:chrismulderza/boxcutter-oraclelinux
+[submodule "infra/builders/packer/solaris"]
+	path = infra/builders/packer/solaris
+	url = git@github.com:chrismulderza/packer-solaris
+[submodule "infra/builders/packer/debian"]
+	path = infra/builders/packer/debian
+	url = git@github.com:chrismulderza/packer-debian
